@@ -1,0 +1,19 @@
+{
+  "name": "secure-password-hash",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "start": "node examples/basic.js"
+  },
+  "keywords": [
+    "password",
+    "hash",
+    "crypto",
+    "pbkdf2",
+    "security"
+  ],
+  "author": "Tariq Monowar Hossain",
+  "license": "ISC",
+  "description": "A secure password hashing library using PBKDF2"
+}
